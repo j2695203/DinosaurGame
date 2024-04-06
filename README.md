@@ -10,7 +10,7 @@ It was built with _C++_ with _SFML_ library.
 # Install
 Git clone to your local repository. 
 ```
-git clone https://github.com/j2695203/Projects.git
+git clone https://github.com/j2695203/DinosaurGame.git
 ```
 
 # Start the Game
